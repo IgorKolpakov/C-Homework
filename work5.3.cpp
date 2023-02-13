@@ -5,8 +5,8 @@
 main()
 {
     srand(time(NULL));
-    int min = -5;
-    int max = 8;
+    int min = -2;
+    int max = 7;
 
     int mas[100][100];
 
